@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
+
+# Environment variables
+.env
+
+# Tests
+test/
